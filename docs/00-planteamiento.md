@@ -17,8 +17,8 @@ En el ámbito de la (ÁREA) Ingeniería de Sistemas y la gestión del ciclo de v
 **Objetivo general:** 
 Desarrollar un Hilo Digital que aporte una mejor perspectiva a los desarrolladores sobre las relaciones entre componentes de un sistema a lo largo del ciclo de desarrollo para garantizar una mejor visibilidad sobre el estado del sistema.
 
-| ID      | Objetivo Específico (OE) |
---------------------------------------
+| ID | Objetivo Específico (OE) |
+| :--- | :--- |
 | **OE1** | Analizar las tecnologías necesarias para implementar sistemas basados en grafos. |
 | **OE2** | Diseñar el modelo de datos (esquema) del grafo para representar requisitos, modelos lógicos, casos de prueba y sus relaciones. |
 | **OE3** | Desarrollar conectores para las herramientas de origen elegidas. |
